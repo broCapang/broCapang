@@ -1,5 +1,5 @@
 <div>
-  <img src="/img/senjou.gif" width="105" height="185"></img>
+  <img src="/img/senjou.gif" width="185" height="120"></img>
 </div>
 
 ```bash
