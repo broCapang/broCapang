@@ -1,3 +1,3 @@
 # bro Capang
 
-<img src="/img/giphy.gif" width="420" height="480"></img>
+<img src="/img/giphy.gif" width="105" height="120"></img>
