@@ -26,6 +26,8 @@ sl
 
 - **Capture The Flag (CTF) Competitions:** Actively participated in CTF competitions, enhancing my problem-solving abilities, and staying current with the latest trends in cybersecurity.
 
+Feel free to checkout my LinkedIn profile!
+
 
 
 
