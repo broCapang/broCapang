@@ -14,11 +14,14 @@ sl
 
 - **Introduction to Networking (CISCO):** Completed a comprehensive introduction to networking course provided by CISCO, gaining foundational knowledge in networking concepts.
 
-- **SRWE CISCO (Switching, Routing, and Wireless Essentials):** completed the SRWE CISCO course, focusing on essential skills in switching, routing, and wireless technologies.
+- **SRWE CISCO (Switching, Routing, and Wireless Essentials):** Completed the SRWE CISCO course, focusing on essential skills in switching, routing, and wireless technologies.
 
 - **CyberOps Cisco:** Attained certification in CyberOps from CISCO, emphasizing practical skills in cybersecurity operations and monitoring.
 
 - **Network Security Cisco:** Completed a specialized course in network security from CISCO, gaining expertise in securing network infrastructure and data.
+
+- **ENSA Cisco (Enterprise Networking, Security, and Automation):** Completed the ENSA course from CISCO, acquiring skills in enterprise networking, security, and automation for building robust and efficient network environments.
+
 
 
 
