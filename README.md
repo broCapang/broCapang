@@ -8,7 +8,7 @@
 sl
 ```
 
-## Hello, I'm Irfan/Capang👋
+# Hello, I'm Irfan/Capang👋
 
 ## Education and Certifications
 
