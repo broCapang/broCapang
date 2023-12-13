@@ -10,6 +10,8 @@ sl
 
 # Hello, I'm Irfan/Capang👋
 
+A student for life
+
 ## Learning Journey
 
 - **Introduction to Networking by CISCO:** Completed a comprehensive introduction to networking course provided by CISCO, gaining foundational knowledge in networking concepts.
