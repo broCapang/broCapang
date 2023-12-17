@@ -26,7 +26,7 @@ A student for life
 
 - **Self-Learning in Cybersecurity:** Passionate about cybersecurity, I've been actively engaged in self-learning, exploring various cybersecurity concepts, tools, and techniques to stay abreast of the dynamic field. Main platforms are HackTheBox, TryHackMe, pwn.college, etc..
 
-- **Capture The Flag (CTF) Competitions:** Actively participated in CTF competitions, enhancing my problem-solving abilities, and staying current with the latest trends in cybersecurity.
+- **Capture The Flag (CTF) Competitions:** Actively participated in CTF competitions, enhancing my problem-solving abilities, and staying current with the latest trends in cybersecurity. Favourite category will be PWN/BinEx
 
 Feel free to checkout my LinkedIn profile!
 
