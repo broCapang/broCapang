@@ -24,11 +24,11 @@ A student for life
 
 - **ENSA (Enterprise Networking, Security, and Automation) by CISCO:** Completed the ENSA course from CISCO, acquiring skills in enterprise networking, security, and automation for building robust and efficient network environments.
 
-- **Self-Learning in Cybersecurity:** Passionate about cybersecurity, I've been actively engaged in self-learning, exploring various cybersecurity concepts, tools, and techniques to stay abreast of the dynamic field. Main platforms are HackTheBox, TryHackMe, pwn.college, etc..
+- **Self-Learning in Cybersecurity:** Passionate about cybersecurity, I've been actively engaged in self-learning, exploring various cybersecurity concepts, tools, and techniques to stay abreast of the dynamic field. The main platforms are HackTheBox, TryHackMe, pwn.college, etc..
 
-- **Capture The Flag (CTF) Competitions:** Actively participated in CTF competitions, enhancing my problem-solving abilities, and staying current with the latest trends in cybersecurity. Favourite category will be PWN/BinEx
+- **Capture The Flag (CTF) Competitions:** Actively participated in CTF competitions, enhancing my problem-solving abilities, and staying current with the latest trends in cybersecurity. Favourite category would be PWN/BinEx
 
-Feel free to checkout my LinkedIn profile!
+Feel free to check out my LinkedIn profile!
 
 
 
